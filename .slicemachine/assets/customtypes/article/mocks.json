@@ -1,0 +1,181 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "equipment"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Hurried"
+        }
+      }
+    ]
+  },
+  "publishDate": {
+    "__TYPE__": "FieldContent",
+    "type": "Date",
+    "value": "2018-08-13"
+  },
+  "featuredImage": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "width": 3882,
+      "height": 2584
+    },
+    "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?rect=218%2C0%2C3445%2C2584&w=2000&h=1500",
+    "width": 2000,
+    "height": 1500,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 218,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "image$70b790bd-08e9-4432-a590-cfced7ff9e70",
+        "name": "image",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "image": {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+                "width": 4272,
+                "height": 2848
+              },
+              "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+              "width": 4272,
+              "height": 2848,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            },
+            "caption": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Id sint ipsum labore cillum laborum enim. Ea consectetur incididunt dolor sit ullamco dolor."
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      },
+      {
+        "key": "quote$a9e2b897-9c7a-4744-93a8-6a6f4fc0606d",
+        "name": "quote",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "quote": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading2",
+                  "content": {
+                    "text": "Round"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "__TYPE__": "FieldContent",
+              "value": "bridge",
+              "type": "Text"
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      },
+      {
+        "key": "text$e8b6c031-d303-402d-a9b2-50b3eb691504",
+        "name": "text",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "text": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Tempor adipisicing Lorem minim laboris dolor. Commodo velit tempor in consectetur sit occaecat eiusmod eiusmod exercitation."
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      },
+      {
+        "key": "contact_form$709541ea-8da7-479f-b68e-163abda3477c",
+        "name": "contact_form",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {},
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "meta_description": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Deserunt exercitation occaecat proident ut magna Lorem eiusmod ad duis anim laborum amet incididunt duis officia. Irure exercitation labore non incididunt ea consectetur nostrud laborum proident non. Enim dolore laborum dolor laborum consequat cupidatat officia proident in."
+        }
+      }
+    ]
+  }
+}
